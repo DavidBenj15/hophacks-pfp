@@ -1,5 +1,5 @@
 """
-bird_composer.py
+main.py
 
 A utility for programmatically composing and exporting layered bird PFP images using the Python Imaging Library (PIL).
 This module is intended to generate variations of a base bird image by overlaying different image assets such as
